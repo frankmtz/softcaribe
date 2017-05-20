@@ -3,7 +3,7 @@ desarrollo de plataforma softcaribe
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ejemplo 01 del curso HTML - aprenderaprogramar.com</title>
+<title>softcaribe</title>
 </head>
 <body text="green" bgcolor="white">
 <pre>
